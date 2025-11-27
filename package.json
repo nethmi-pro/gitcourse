@@ -1,0 +1,26 @@
+{
+  "name": "git-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nethmi-pro/gitcourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nethmi-pro/gitcourse/issues"
+  },
+  "homepage": "https://github.com/nethmi-pro/gitcourse#readme",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "express": "^5.1.0",
+    "karma": "^6.4.4",
+    "mongoose": "^9.0.0"
+  }
+}
